@@ -1,5 +1,7 @@
 # Provisioning Kubernetes clusters on Azure with Terraform and AKS
 
+Repository for Medium Article - [Terraform and Kubernetes on Azure — AKS](https://faun.pub/terraform-and-kubernetes-on-azure-aks-ba7ae1799a92)
+
 This repository contains the sample code necessary to provision AKS clusters using Terraform.
 
 Code samples:
